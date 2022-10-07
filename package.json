@@ -1,0 +1,30 @@
+{
+  "name": "fourmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeP-dev/fourMI.git"
+  },
+  "keywords": [
+    "Ant",
+    "colony"
+  ],
+  "author": "Paul VAUTIER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeP-dev/fourMI/issues"
+  },
+  "homepage": "https://github.com/PeP-dev/fourMI#readme"
+}
